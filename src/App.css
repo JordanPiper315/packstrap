@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.color-nav {
+  background-color: #91e0ac;
+}
+
+.site-footer {
+  background-color: darkgreen;
+}
+
+.site-footer h5, .list-unstyled, h2, i {
+  color: white;
+}
